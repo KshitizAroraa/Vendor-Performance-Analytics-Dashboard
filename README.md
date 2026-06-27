@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the vendor performance analytics dashboard project. It is designed to process vendor purchase, sales, and invoice data, create a consolidated vendor sales summary, and support exploratory analysis through Jupyter notebooks.
+This project focused on analyzing vendor performance, inventory efficiency, and sales profitability for a retail business using Python. I began by cleaning the dataset, removing inconsistent records such as negative-profit transactions and unsold inventory. I then performed exploratory data analysis to identify sales patterns, pricing trends, inventory turnover, and freight cost variations. Using correlation analysis, I studied relationships between pricing, sales, and profitability. I answered key business questions such as identifying high-margin low-sales brands, evaluating vendor dependency, measuring the cost benefits of bulk purchasing, and detecting slow-moving inventory. Finally, I validated profitability differences between vendor groups using statistical hypothesis testing and proposed business recommendations to improve profitability, reduce inventory costs, and strengthen supply chain resilience.
 
 ## Key Components
 
